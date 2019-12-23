@@ -1,0 +1,43 @@
+.logo{
+
+	color: white;
+	font-size: 25px;
+	text-align: center;
+}
+
+b{
+ 	color: white;
+	font-size: 20px;
+}
+
+.ajeita{
+	padding-left:460px; 
+	padding-top: 2px;
+}
+body{
+
+ background-color:;
+}
+html,body{
+
+	scroll-behavior: smooth;
+}
+
+#tudo{
+
+	position:fixed-top;
+	background-color: ;
+	top: 0;
+    left: 0;
+    right: 0;
+}
+article{
+	color: black;
+	padding-top: 100px;
+}
+.carousel {
+    position:relative; 
+   padding-top: -50;
+
+}
+
